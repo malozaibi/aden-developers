@@ -1,0 +1,38 @@
+{
+  "projects": [
+    {
+      "slug": "stu-hub",
+      "name": "Students Hub للخدمات الطلابية",
+      "description": "مشروع استيودنت هب هو مشروع يسعى للمساعدة الطلاب وتوفير وقتهم وجهدهم",
+      "link": "https://stu-hub.aden-developers.org/",
+      "featureImage": "subdomians/stu-hub/desktop/1.png",
+      "images": {
+        "mobile": [
+          "subdomians/stu-hub/mobile/1.jpg",
+          "subdomians/stu-hub/mobile/2.jpg",
+          "subdomians/stu-hub/mobile/3.jpg",
+          "subdomians/stu-hub/mobile/4.jpg",
+          "subdomians/stu-hub/mobile/5.jpg",
+          "subdomians/stu-hub/mobile/6.jpg"
+        ],
+        "desktop": [
+          "subdomians/stu-hub/desktop/1.png",
+          "subdomians/stu-hub/desktop/2.png",
+          "subdomians/stu-hub/desktop/3.png",
+          "subdomians/stu-hub/desktop/4.png",
+          "subdomians/stu-hub/desktop/5.png",
+          "subdomians/stu-hub/desktop/6.png"
+        ],
+        "admin": [
+          "subdomians/stu-hub/admin/\u0627\u062f\u0627\u0631\u0629\u0020\u0627\u0644\u062a\u0639\u0644\u064a\u0642\u0627\u062a.png",
+          "subdomians/stu-hub/admin/\u0627\u062f\u0627\u0631\u0629\u0020\u0627\u0644\u0637\u0644\u0628\u0627\u062a.png",
+          "subdomians/stu-hub/admin/\u0627\u062f\u0627\u0631\u0629\u0020\u062e\u062f\u0645\u0627\u062a.png",
+          "subdomians/stu-hub/admin/\u0627\u062f\u0627\u0631\u0629\u0020\u0641\u0631\u064a\u0642\u0020\u0627\u0644\u0639\u0645\u0644.png",
+          "subdomians/stu-hub/admin/\u0627\u0644\u0631\u064a\u0651\u064a\u0633\u064a\u0629.png",
+          "subdomians/stu-hub/admin/\u0632\u0631\u0020\u0627\u0644\u062e\u062f\u0645\u0627\u062a.png",
+          "subdomians/stu-hub/admin/\u0642\u0627\u0650\u0626\u0645\u0629\u0020\u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646.png"
+        ]
+      }
+    }
+  ]
+}
