@@ -129,8 +129,7 @@
       desktop: "Desktop Screens",
       admin: "Admin Panel Screens",
     };
-    imagesModalTitle.textContent =
-      project.name + " — " + (titleMap[group] || "Images");
+    imagesModalTitle.textContent = project.name;
     imagesCarouselInner.innerHTML = "";
 
     const images = (project.images || {})[group] || [];
