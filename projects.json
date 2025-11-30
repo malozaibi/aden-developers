@@ -36,8 +36,8 @@
     },
     {
       "slug": "aden-guide",
-      "name": "Aden Guide",
-      "description": "دليلك في عدن",
+      "name": "Aden Guide دليلك في عدن",
+      "description": "دليلك الإلكتروني للعثور على آخر الأخبار، الخدمات، المحلات، والأنشطة التجارية في محافظة عدن - اليمن.",
       "link": "https://aden-guide.aden-developers.org/",
       "featureImage": "subdomians/aden-guide/desktop/Computer1.jpeg",
       "images": {
@@ -61,8 +61,8 @@
     },
     {
       "slug": "aden-tourist-guide",
-      "name": "Aden Tourist Guide",
-      "description": "دليل عدن السياحي",
+      "name": "Aden Tourist Guide دليل عدن السياحي",
+      "description": "كل ما تحتاجه للتعرف على عدن تجده هنا",
       "link": "https://atg.aden-developers.org/",
       "featureImage": "subdomians/aden-tourist-guide/desktop/1.jpeg",
       "images": {
@@ -85,7 +85,7 @@
     {
       "slug": "link4job",
       "name": "Link4Job",
-      "description": "منصة ربط الوظائف",
+      "description": "Link4job هو دليلك الأمثل لأقرب فرص العمل وأفضل الوظائف المتاحة في الوطن العربي.",
       "link": "https://abdulhmid.aden-developers.org/",
       "featureImage": "subdomians/Link4job/desktop/1.jpeg",
       "images": {
@@ -102,6 +102,20 @@
           "subdomians/Link4job/desktop/10.jpeg",
           "subdomians/Link4job/desktop/11.jpeg",
           "subdomians/Link4job/desktop/12.jpeg"
+        ],
+        "mobile": [
+          "subdomians/Link4job/mobile/1.jpg",
+          "subdomians/Link4job/mobile/2.jpg",
+          "subdomians/Link4job/mobile/3.jpg",
+          "subdomians/Link4job/mobile/4.jpg",
+          "subdomians/Link4job/mobile/5.jpg",
+          "subdomians/Link4job/mobile/6.jpg",
+          "subdomians/Link4job/mobile/7.jpg",
+          "subdomians/Link4job/mobile/8.jpg",
+          "subdomians/Link4job/mobile/9.jpg",
+          "subdomians/Link4job/mobile/10.jpg",
+          "subdomians/Link4job/mobile/11.jpg",
+          "subdomians/Link4job/mobile/12.jpg"
         ]
       }
     }
