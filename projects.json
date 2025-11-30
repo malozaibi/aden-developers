@@ -33,6 +33,77 @@
           "subdomians/stu-hub/admin/\u0642\u0627\u0650\u0626\u0645\u0629\u0020\u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646.png"
         ]
       }
+    },
+    {
+      "slug": "aden-guide",
+      "name": "Aden Guide",
+      "description": "دليلك في عدن",
+      "link": "https://aden-guide.aden-developers.org/",
+      "featureImage": "subdomians/aden-guide/desktop/Computer1.jpeg",
+      "images": {
+        "mobile": [
+          "subdomians/aden-guide/mobile/Phone1.jpeg",
+          "subdomians/aden-guide/mobile/Phone2.jpeg",
+          "subdomians/aden-guide/mobile/Phone3.jpeg"
+        ],
+        "desktop": [
+          "subdomians/aden-guide/desktop/Computer1.jpeg",
+          "subdomians/aden-guide/desktop/Computer2.jpeg",
+          "subdomians/aden-guide/desktop/Computer3.jpeg",
+          "subdomians/aden-guide/desktop/Computer4.jpeg"
+        ],
+        "admin": [
+          "subdomians/aden-guide/admin/Administration1.jpeg",
+          "subdomians/aden-guide/admin/Administration2.jpeg",
+          "subdomians/aden-guide/admin/Administration3.jpeg"
+        ]
+      }
+    },
+    {
+      "slug": "aden-tourist-guide",
+      "name": "Aden Tourist Guide",
+      "description": "دليل عدن السياحي",
+      "link": "https://atg.aden-developers.org/",
+      "featureImage": "subdomians/aden-tourist-guide/desktop/1.jpeg",
+      "images": {
+        "desktop": [
+          "subdomians/aden-tourist-guide/desktop/1.jpeg",
+          "subdomians/aden-tourist-guide/desktop/3.jpeg",
+          "subdomians/aden-tourist-guide/desktop/4.jpeg",
+          "subdomians/aden-tourist-guide/desktop/5.jpeg",
+          "subdomians/aden-tourist-guide/desktop/6.jpeg",
+          "subdomians/aden-tourist-guide/desktop/7.jpeg",
+          "subdomians/aden-tourist-guide/desktop/8.jpeg",
+          "subdomians/aden-tourist-guide/desktop/9.jpeg",
+          "subdomians/aden-tourist-guide/desktop/10.jpeg",
+          "subdomians/aden-tourist-guide/desktop/11.jpeg",
+          "subdomians/aden-tourist-guide/desktop/12.jpeg",
+          "subdomians/aden-tourist-guide/desktop/13.jpeg"
+        ]
+      }
+    },
+    {
+      "slug": "link4job",
+      "name": "Link4Job",
+      "description": "منصة ربط الوظائف",
+      "link": "https://abdulhmid.aden-developers.org/",
+      "featureImage": "subdomians/Link4job/desktop/1.jpeg",
+      "images": {
+        "desktop": [
+          "subdomians/Link4job/desktop/1.jpeg",
+          "subdomians/Link4job/desktop/2.jpeg",
+          "subdomians/Link4job/desktop/3.jpeg",
+          "subdomians/Link4job/desktop/4.jpeg",
+          "subdomians/Link4job/desktop/5.jpeg",
+          "subdomians/Link4job/desktop/6.jpeg",
+          "subdomians/Link4job/desktop/7.jpeg",
+          "subdomians/Link4job/desktop/8.jpeg",
+          "subdomians/Link4job/desktop/9.jpeg",
+          "subdomians/Link4job/desktop/10.jpeg",
+          "subdomians/Link4job/desktop/11.jpeg",
+          "subdomians/Link4job/desktop/12.jpeg"
+        ]
+      }
     }
   ]
 }

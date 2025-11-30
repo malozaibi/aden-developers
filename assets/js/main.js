@@ -93,20 +93,32 @@
             encodeURI(p.link) +
             '">فتح الموقع</a></div>'
           : "") +
-        '<p class="mb-1">صور الموقع:</p><div class="mt-auto d-flex flex-wrap gap-2">' +
-        '<button class="btn btn-sm btn-outline-primary" data-group="mobile">الموبايل</button>' +
-        '<button class="btn btn-sm btn-outline-primary" data-group="desktop">الكمبيوتر</button>' +
-        '<button class="btn btn-sm btn-outline-primary" data-group="admin">الإدارة</button>' +
+        '<p class="mb-1">صور الموقع:</p><div class="mt-auto d-flex flex-wrap gap-2 image-buttons-container">' +
         "</div>" +
         "</div>";
 
-      // Attach handlers for image groups
-      card.querySelectorAll("button[data-group]").forEach(function (btn) {
-        btn.addEventListener("click", function () {
-          const group = btn.getAttribute("data-group");
-          openImagesModal(p, group);
+      // Dynamically add buttons only for categories that have images
+      const imageButtonsContainer = card.querySelector(".image-buttons-container");
+      if (imageButtonsContainer) {
+        const buttonLabels = {
+          mobile: "الموبايل",
+          desktop: "الكمبيوتر",
+          admin: "الإدارة",
+        };
+        const images = p.images || {};
+        Object.keys(buttonLabels).forEach(function (group) {
+          if (images[group] && Array.isArray(images[group]) && images[group].length > 0) {
+            const btn = document.createElement("button");
+            btn.className = "btn btn-sm btn-outline-primary";
+            btn.setAttribute("data-group", group);
+            btn.textContent = buttonLabels[group];
+            btn.addEventListener("click", function () {
+              openImagesModal(p, group);
+            });
+            imageButtonsContainer.appendChild(btn);
+          }
         });
-      });
+      }
 
       col.appendChild(card);
       projectsGrid.appendChild(col);
