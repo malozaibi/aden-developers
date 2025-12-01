@@ -68,6 +68,7 @@
       "images": {
         "desktop": [
           "subdomians/aden-tourist-guide/desktop/1.jpeg",
+          "subdomians/aden-tourist-guide/desktop/2.jpeg",
           "subdomians/aden-tourist-guide/desktop/3.jpeg",
           "subdomians/aden-tourist-guide/desktop/4.jpeg",
           "subdomians/aden-tourist-guide/desktop/5.jpeg",
@@ -78,7 +79,52 @@
           "subdomians/aden-tourist-guide/desktop/10.jpeg",
           "subdomians/aden-tourist-guide/desktop/11.jpeg",
           "subdomians/aden-tourist-guide/desktop/12.jpeg",
-          "subdomians/aden-tourist-guide/desktop/13.jpeg"
+          "subdomians/aden-tourist-guide/desktop/13.jpeg",
+          "subdomians/aden-tourist-guide/desktop/14.jpeg",
+          "subdomians/aden-tourist-guide/desktop/15.jpeg",
+          "subdomians/aden-tourist-guide/desktop/16.jpeg",
+          "subdomians/aden-tourist-guide/desktop/17.jpeg"
+        ],
+        "mobile": [
+          "subdomians/aden-tourist-guide/mobil/1763659746833.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659746849.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659746861.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659746875.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659746900.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659746923.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659746946.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659746970.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659746991.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659747012.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659747037.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659747071.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659747088.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659747103.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659747117.jpg",
+          "subdomians/aden-tourist-guide/mobil/1763659747133.jpg"
+        ],
+        "admin": [
+          "subdomians/aden-tourist-guide/admin/photo (1).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (2).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (3).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (4).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (5).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (6).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (7).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (8).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (9).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (10).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (11).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (12).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (13).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (14).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (15).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (16).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (17).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (18).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (19).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (20).jpg",
+          "subdomians/aden-tourist-guide/admin/photo (21).jpg"
         ]
       }
     },
