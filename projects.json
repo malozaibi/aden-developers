@@ -204,8 +204,8 @@
     },
     {
       "slug": "pms",
-      "name": "PMS",
-      "description": "تنظيم مشاريعك ومهامة بسهولة.",
+      "name": "PMS (Project Manager System)",
+      "description": "تنظيم المشاريع مع الفرق بسهولة تحت مبدء ايجايل Agile.",
       "link": "https://pms.aden-developers.org/",
       "featureImage": "subdomians/pms/1.jpeg",
       "images": {
