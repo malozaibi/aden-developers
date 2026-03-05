@@ -164,6 +164,62 @@
           "subdomians/Link4job/mobile/12.jpg"
         ]
       }
+    },
+    {
+      "slug": "arab-heritage-key",
+      "name": "Arab Heritage key مفتاح التراث العربي",
+      "description": "انقر لزيارة الخريطة واستكشاف معالم الوطن العربي",
+      "link": "https://arab-heritage-key.aden-developers.org/",
+      "featureImage": "subdomians/arab-heritage-key/desktop/1.jpeg",
+      "images": {
+        "desktop": [
+          "subdomians/arab-heritage-key/desktop/1.jpeg",
+          "subdomians/arab-heritage-key/desktop/2.jpeg",
+          "subdomians/arab-heritage-key/desktop/3.jpeg",
+          "subdomians/arab-heritage-key/desktop/4.jpeg",
+          "subdomians/arab-heritage-key/desktop/5.jpeg",
+          "subdomians/arab-heritage-key/desktop/6.jpeg",
+          "subdomians/arab-heritage-key/desktop/7.jpeg",
+          "subdomians/arab-heritage-key/desktop/8.jpeg",
+          "subdomians/arab-heritage-key/desktop/9.jpeg",
+          "subdomians/arab-heritage-key/desktop/10.jpeg",
+          "subdomians/arab-heritage-key/desktop/11.jpeg"
+        ],
+        "mobile": [
+          "subdomians/arab-heritage-key/mobile/1.jpg",
+          "subdomians/arab-heritage-key/mobile/2.jpg",
+          "subdomians/arab-heritage-key/mobile/3.jpg",
+          "subdomians/arab-heritage-key/mobile/4.jpg",
+          "subdomians/arab-heritage-key/mobile/5.jpg",
+          "subdomians/arab-heritage-key/mobile/6.jpg",
+          "subdomians/arab-heritage-key/mobile/7.jpg",
+          "subdomians/arab-heritage-key/mobile/8.jpg",
+          "subdomians/arab-heritage-key/mobile/9.jpg",
+          "subdomians/arab-heritage-key/mobile/10.jpg",
+          "subdomians/arab-heritage-key/mobile/11.jpg",
+          "subdomians/arab-heritage-key/mobile/12.jpg",
+          "subdomians/arab-heritage-key/mobile/13.jpeg"
+        ]
+      }
+    },
+    {
+      "slug": "pms",
+      "name": "PMS",
+      "description": "تنظيم مشاريعك ومهامة بسهولة.",
+      "link": "https://pms.aden-developers.org/",
+      "featureImage": "subdomians/pms/1.jpeg",
+      "images": {
+        "desktop": [
+          "subdomians/pms/1.jpeg",
+          "subdomians/pms/2.jpeg",
+          "subdomians/pms/3.jpeg",
+          "subdomians/pms/4.jpeg",
+          "subdomians/pms/5.jpeg",
+          "subdomians/pms/6.jpeg",
+          "subdomians/pms/7.jpeg"
+        ],
+        "mobile": []
+      }
     }
   ]
 }
