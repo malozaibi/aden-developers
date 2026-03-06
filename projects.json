@@ -167,8 +167,8 @@
     },
     {
       "slug": "arab-heritage-key",
-      "name": "Arab Heritage key مفتاح التراث العربي",
-      "description": "انقر لزيارة الخريطة واستكشاف معالم الوطن العربي",
+      "name": "Arab Heritage Key | مفتاح التراث العربي",
+      "description": "موقع يعرّف المستخدم بالمعالم التاريخية في الوطن العربي ويتيح استكشافها عبر خريطة تفاعلية.",
       "link": "https://arab-heritage-key.aden-developers.org/",
       "featureImage": "subdomians/arab-heritage-key/desktop/1.jpeg",
       "images": {
