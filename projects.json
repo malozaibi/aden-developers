@@ -220,6 +220,26 @@
         ],
         "mobile": []
       }
+    },
+    {
+      "slug": "cs25",
+      "name": "CS 2025 Front End",
+      "description": "مشاريع طلاب علوم حاسوب 2025 لمادة Web (Front End)",
+      "link": "https://cs25.aden-developers.org/",
+      "featureImage": "subdomians/cs25/desktop/main.jpg",
+      "images": {
+        "desktop": [
+          "subdomians/cs25/desktop/1.jpg",
+          "subdomians/cs25/desktop/2.jpg",
+          "subdomians/cs25/desktop/3.jpg",
+          "subdomians/cs25/desktop/4.jpg",
+          "subdomians/cs25/desktop/5.jpg",
+          "subdomians/cs25/desktop/6.jpg",
+          "subdomians/cs25/desktop/7.jpg",
+          "subdomians/cs25/desktop/8.jpg"
+        ],
+        "mobile": []
+      }
     }
   ]
 }
