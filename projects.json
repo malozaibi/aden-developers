@@ -240,6 +240,67 @@
         ],
         "mobile": []
       }
+    },
+    {
+      "slug": "edu",
+      "name": "منصة LearnHub التعليمية",
+      "description": "منصة تعليمية تجمع المحتوى والموارد التعليمية في مختلف التخصصات، وتساعد الطلاب والمتعلمين على اكتشاف مجالات جديدة وتطوير مهاراتهم.",
+      "link": "https://edu.aden-developers.org/",
+      "featureImage": "subdomians/edu/desktop/Home1.jpg",
+      "images": {
+        "desktop": [
+          "subdomians/edu/desktop/Home1.jpg",
+          "subdomians/edu/desktop/Home2.jpg",
+          "subdomians/edu/desktop/About.jpg",
+          "subdomians/edu/desktop/Blogs.jpg",
+          "subdomians/edu/desktop/Categories.jpg",
+          "subdomians/edu/desktop/Contact.jpg",
+          "subdomians/edu/desktop/Desgin.jpg",
+          "subdomians/edu/desktop/editProfile.png",
+          "subdomians/edu/desktop/Languages.png",
+          "subdomians/edu/desktop/Login.jpg",
+          "subdomians/edu/desktop/Marketing.png",
+          "subdomians/edu/desktop/Science & Knowledge.jpg",
+          "subdomians/edu/desktop/sign-up.jpg",
+          "subdomians/edu/desktop/Teachers.jpg",
+          "subdomians/edu/desktop/Team.jpg",
+          "subdomians/edu/desktop/Technology.jpg",
+          "subdomians/edu/desktop/viewProfile.png"
+        ],
+        "mobile": [
+          "subdomians/edu/mobile/Home.jpg",
+          "subdomians/edu/mobile/About-us.jpg",
+          "subdomians/edu/mobile/AllCategories.jpg",
+          "subdomians/edu/mobile/Blogs.jpg",
+          "subdomians/edu/mobile/ContactUs.jpg",
+          "subdomians/edu/mobile/Design.jpg",
+          "subdomians/edu/mobile/Help-Center.jpg",
+          "subdomians/edu/mobile/Languages.jpg",
+          "subdomians/edu/mobile/Login.jpg",
+          "subdomians/edu/mobile/Marketing.jpg",
+          "subdomians/edu/mobile/Science & Knowledge.jpg",
+          "subdomians/edu/mobile/Sign-up.jpg",
+          "subdomians/edu/mobile/Teachers.jpg",
+          "subdomians/edu/mobile/Technology.jpg"
+        ],
+        "admin": [
+          "subdomians/edu/admin/Dashboard.jpg",
+          "subdomians/edu/admin/Courses_Management.jpg",
+          "subdomians/edu/admin/EditCourse.jpg",
+          "subdomians/edu/admin/Categories_Management.jpg",
+          "subdomians/edu/admin/AddNewCat.jpg",
+          "subdomians/edu/admin/EditCat.jpg",
+          "subdomians/edu/admin/Teachers_Management.jpg",
+          "subdomians/edu/admin/AddTeacher.png",
+          "subdomians/edu/admin/Users_Management.png",
+          "subdomians/edu/admin/AddUser.jpg",
+          "subdomians/edu/admin/Enrollments.jpg",
+          "subdomians/edu/admin/Blog_Management.jpg",
+          "subdomians/edu/admin/AddBlog.jpg",
+          "subdomians/edu/admin/Messages_Management.jpg",
+          "subdomians/edu/admin/View_Messages.jpg"
+        ]
+      }
     }
   ]
 }
