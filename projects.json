@@ -301,6 +301,46 @@
           "subdomians/edu/admin/View_Messages.jpg"
         ]
       }
+    },
+    {
+      "slug": "routix",
+      "name": "روتيکس (Routix) — جدار حماية تطبيقات الويب وحماية حركة المرور",
+      "description": "منصة أمان لتطبيقات الويب مصممة لحماية المواقع الإلكترونية من خلال فحص طلبات بروتوكول HTTP، واكتشاف أنماط حركة المرور المشبوهة، وتطبيق ضوابط أمان قابلة للتكوين",
+      "link": "https://routix.nk.kg",
+      "featureImage": "subdomians/routix/desktop/image11.png",
+      "images": {
+        "desktop": [
+          "subdomians/routix/desktop/image11.png",
+          "subdomians/routix/desktop/page-01.jpg",
+          "subdomians/routix/desktop/page-02.jpg",
+          "subdomians/routix/desktop/page-03.jpg",
+          "subdomians/routix/desktop/page-04.jpg",
+          "subdomians/routix/desktop/page-05.jpg",
+          "subdomians/routix/desktop/page-06.jpg",
+          "subdomians/routix/desktop/page-07.jpg",
+          "subdomians/routix/desktop/page-08.jpg",
+          "subdomians/routix/desktop/page-09.jpg",
+          "subdomians/routix/desktop/page-10.jpg",
+          "subdomians/routix/desktop/page-11.jpg",
+          "subdomians/routix/desktop/page-12.jpg",
+          "subdomians/routix/desktop/page-13.jpg",
+          "subdomians/routix/desktop/page-14.jpg",
+          "subdomians/routix/desktop/page-15.jpg",
+          "subdomians/routix/desktop/page-16.jpg"
+        ],
+        "mobile": [
+          "subdomians/routix/mobile/image1.jpeg",
+          "subdomians/routix/mobile/image2.jpeg",
+          "subdomians/routix/mobile/image3.jpeg",
+          "subdomians/routix/mobile/image4.png",
+          "subdomians/routix/mobile/image5.png",
+          "subdomians/routix/mobile/image6.png",
+          "subdomians/routix/mobile/image7.png",
+          "subdomians/routix/mobile/image8.png",
+          "subdomians/routix/mobile/image9.png",
+          "subdomians/routix/mobile/image10.jpg"
+        ]
+      }
     }
   ]
 }
